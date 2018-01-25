@@ -1,0 +1,10 @@
+C:\ACCTMIS 3610\Fisher.Bookstore\bin\Debug\netcoreapp2.0\Fisher.Bookstore.deps.json
+C:\ACCTMIS 3610\Fisher.Bookstore\bin\Debug\netcoreapp2.0\Fisher.Bookstore.runtimeconfig.json
+C:\ACCTMIS 3610\Fisher.Bookstore\bin\Debug\netcoreapp2.0\Fisher.Bookstore.runtimeconfig.dev.json
+C:\ACCTMIS 3610\Fisher.Bookstore\bin\Debug\netcoreapp2.0\Fisher.Bookstore.dll
+C:\ACCTMIS 3610\Fisher.Bookstore\bin\Debug\netcoreapp2.0\Fisher.Bookstore.pdb
+C:\ACCTMIS 3610\Fisher.Bookstore\obj\Debug\netcoreapp2.0\Fisher.Bookstore.csproj.CoreCompileInputs.cache
+C:\ACCTMIS 3610\Fisher.Bookstore\obj\Debug\netcoreapp2.0\Fisher.Bookstore.AssemblyInfoInputs.cache
+C:\ACCTMIS 3610\Fisher.Bookstore\obj\Debug\netcoreapp2.0\Fisher.Bookstore.AssemblyInfo.cs
+C:\ACCTMIS 3610\Fisher.Bookstore\obj\Debug\netcoreapp2.0\Fisher.Bookstore.dll
+C:\ACCTMIS 3610\Fisher.Bookstore\obj\Debug\netcoreapp2.0\Fisher.Bookstore.pdb
